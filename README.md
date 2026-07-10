@@ -2,7 +2,7 @@
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,py,sklearn,pytoch,tensorflow,react,ts&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,py,sklearn,pytorch,tensorflow,react,ts&perline=7)](https://skillicons.dev)
 
 <!--
 **krytarc/krytarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

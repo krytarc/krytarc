@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krytarc&theme=radical" alt="GitHub Streak" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krytarc&theme=react-dark" alt="Activity Graph" />
 </p>

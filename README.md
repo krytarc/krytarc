@@ -2,7 +2,7 @@
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,py,sklearn,pytorch,tensorflow,react,ts,postgres,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,py,sklearn,pytorch,react,ts,postgres,git&perline=6)](https://skillicons.dev)
 
 <!--
 **krytarc/krytarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krytarc&theme=react-dark" alt="Activity Graph" />
-</p>
+
